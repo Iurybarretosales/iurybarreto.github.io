@@ -313,5 +313,20 @@ a:target {
     font-family: 'Courier New', Courier, monospace;
 }
 
+#CV {
+    display: block;
+    color: rgb(70, 70, 250);
+    font-size: 12px;
+    margin: auto;
+}
+
+#CV:hover {
+    text-decoration: underline white;
+}
+
+
+
+
+
 
 
