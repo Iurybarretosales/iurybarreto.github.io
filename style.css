@@ -131,7 +131,7 @@ img {
 }
 
 img.imagem-linguagem {
-    width: 80px;
+    width: 50px;
     mix-blend-mode: color-burn;
     
 }
@@ -304,10 +304,11 @@ a:target {
 }
 
 #imagens_projetos {
-    width: 280px;
+    width: 150px;
 }
 
 #texto_projeto {
+    font-size: 12px;
     color: white;
     font-family: 'Courier New', Courier, monospace;
 }
