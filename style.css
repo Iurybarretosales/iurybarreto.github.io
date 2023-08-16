@@ -151,7 +151,7 @@ img.imagem-linguagem {
 }
 
 .switch p {
-    font-size: 9px;
+    font-size: 6px;
     color: white;
     margin-top: 6px;
 
@@ -312,4 +312,6 @@ a:target {
     color: white;
     font-family: 'Courier New', Courier, monospace;
 }
+
+
 
